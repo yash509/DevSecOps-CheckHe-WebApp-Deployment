@@ -1,0 +1,178 @@
+{
+    "Header": {
+      "title": "SR DTU ",
+      "paragraph": "Join the Bot Revolution"
+    },
+    "About": {
+      "paragraph": "The community within the Society of Robotics (SR-DTU) at Delhi Technological University is a group of students and individuals who share a common interest in robotics and technology. They collaborate, network, and participate in events and activities to learn and grow in the field of robotics. This community is inclusive, supportive, and fosters a sense of camaraderie among its members.",
+      "Why": [
+        "The Society of Robotics (SR-DTU) is guided by three fundamental principles: innovation, collaboration, and exploration. Innovation is at the heart of SR-DTU’s mission, driving members to think creatively and develop cutting-edge solutions in the field of robotics. Collaboration is encouraged, promoting teamwork and knowledge sharing among members. The spirit of exploration is ingrained in the society’s DNA, inspiring curiosity and a commitment to continually push the boundaries of knowledge in technology and robotics."
+      ],
+      "Why2": [
+        "SR-DTU goals revolve around advancing knowledge, fostering community, promoting innovation, and skill development in the field of robotics, while also contributing to wider awareness and engagement with technology."
+      ]
+    },
+    "Gallery": [
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/01-large.jpg",
+        "smallImage": "img/portfolio/01-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/02-large.jpg",
+        "smallImage": "img/portfolio/02-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/03-large.jpg",
+        "smallImage": "img/portfolio/03-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/04-large.jpg",
+        "smallImage": "img/portfolio/04-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/05-large.jpg",
+        "smallImage": "img/portfolio/05-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/06-large.jpg",
+        "smallImage": "img/portfolio/06-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/07-large.jpg",
+        "smallImage": "img/portfolio/07-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/08-large.jpg",
+        "smallImage": "img/portfolio/08-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/09-large.jpg",
+        "smallImage": "img/portfolio/09-small.jpg"
+      }
+    ],
+    "Services": [
+      {
+        "icon": "fa fa-wordpress",
+        "name": "Event Management",
+        "text": "Organize and manage society events, including scheduling, registration, and notifications."
+      },
+      {
+        "icon": "fa fa-cart-arrow-down",
+        "name": "Member Management",
+        "text": "Maintain a database of members, track their participation, and manage roles and responsibilities."
+      },
+      {
+        "icon": "fa fa-cloud-download",
+        "name": "Resource Allocation",
+        "text": "Track and allocate resources or equipment needed for events and projects."
+      },
+      {
+        "icon": "fa fa-language",
+        "name": "Communication Platform",
+        "text": "Provide a platform for announcements, discussions, and updates among society members."
+      },
+      {
+        "icon": "fa fa-plane",
+        "name": "Project Management",
+        "text": "Manage ongoing and upcoming projects, including task assignments, progress tracking, and collaboration tools."
+      },
+      {
+        "icon": "fa fa-pie-chart",
+        "name": "Feedback and Evaluation",
+        "text": "Collect feedback from members on events and activities to evaluate and improve future initiatives."
+      }
+    ],
+    "Senior Council": [
+      {
+        "img": "img/testimonials/01.jpg",
+        "text": "President",
+        "name": "Harsh Pandey"
+      },
+      {
+        "img": "img/testimonials/02.jpg",
+        "text": "Vice President",
+        "name": "Devansh Wassista"
+      },
+      {
+        "img": "img/testimonials/03.jpg",
+        "text": "Vice President",
+        "name": "Ashish Chotani"
+      },
+      {
+        "img": "img/testimonials/04.jpg",
+        "text": "Treasurer",
+        "name": "Kartik Kasana"
+      },
+      {
+        "img": "img/testimonials/05.jpg",
+        "text": "Technical Advisor",
+        "name": "Kartik Upadhyay"
+      },
+      {
+        "img": "img/testimonials/06.jpg",
+        "text": "Operations Advisor",
+        "name": "Ishank Dabas"
+      }
+    ],
+    "Junior Council": [
+      {
+        "img": "img/team/01.jpg",
+        "name": "Anuj Joshi",
+        "job": "General Secretary"
+      },
+      {
+        "img": "img/team/02.jpg",
+        "name": "Chitwan Tejan",
+        "job": "Joint Secretary"
+      },
+      {
+        "img": "img/team/03.jpg",
+        "name": "Unnat Rathi",
+        "job": "Joint Secretary"
+      },
+      {
+        "img": "img/team/04.jpg",
+        "name": "Sarthak Aggarwal",
+        "job": "Joint Treasurer"
+      }
+    ],
+    "Contact": {
+      "address": "P4X9+X2J, Bawana Rd, Delhi Technological University, Shahbad Daulatpur Village, Rohini, New Delhi, Delhi, 110042 ",
+      "phone": "9990770881",
+      "email": "srdtu@gmail.com",
+      "facebook": "srfb.com",
+      "twitter": "srtwitter.com",
+      "youtube": "srdtuyoutube.com"
+    },
+    "Events": [
+      {
+        "icon": "fa fa-comments-o",
+        "title": "Quidditch",
+        "text": "Quidditch at SR DTU brings the magic of the fictional sport to life with a competitive and dynamic game. Players use broomsticks to score points by throwing a ball through hoops, blending athleticism and strategy in a fast-paced, exhilarating match."
+      },
+      {
+        "icon": "fa fa-bullhorn",
+        "title": "Robo Soccer",
+        "text": "Robo Soccer at SR DTU features autonomous robots competing in a soccer match, showcasing advancements in robotics and artificial intelligence. The event emphasizes teamwork, strategy, and real-time decision-making as robots dribble, pass, and score goals."
+      },
+      {
+        "icon": "fa fa-group",
+        "title": "Drone Race",
+        "text": "Drone Racing at SR DTU involves high-speed competition where pilots navigate through challenging courses using advanced drones. The event combines cutting-edge technology with pilot skill, showcasing precision and agility in a thrilling race format."
+      },
+      {
+        "icon": "fa fa-magic",
+        "title": "LFR",
+        "text": "LFR (Line Following Robot) at SR DTU is designed to autonomously navigate and follow a predetermined path using sensors. It integrates real-time feedback and control systems to enhance precision and efficiency in robotic movement."
+      }
+    ]
+  }
